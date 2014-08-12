@@ -5,7 +5,7 @@ HTML/CSS and JavaScript exercises for the intro course.
 
 To use these exercises, either click the link below each exercise, or change the current 'branch' that you are on by choosing a different exercise in the above dropdown (as seen below).
 
-![Branches](\includegraphics[width=400px]{https://raw.githubusercontent.com/CodingCampus/intro-exercises/master/extras/branches.png})
+![Branches](\includegraphics[width=2in]{https://raw.githubusercontent.com/CodingCampus/intro-exercises/master/extras/branches.png})
 
 ### Exercise 1 - Writing HTML ###
 
