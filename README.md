@@ -22,6 +22,8 @@ Style the article using the following:
 
 `<link href='*path_to_your_css_file*' rel='stylesheet' />`
 
+**However**, because we are using [JS Bin](http://jsbin.com), we do not need to add a link in our HTML because JS Bin adds it for us automatically.
+
 ### Solution ###
 
 ![Exercise 2 Solution](https://raw.githubusercontent.com/CodingCampus/intro-exercises/exercise2/extras/exercise2-solution.png)
