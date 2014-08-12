@@ -1,18 +1,26 @@
 Intro Exercises
 ===============
 
-HTML/CSS and JavaScript exercises for the intro course
+HTML/CSS and JavaScript exercises for the intro course.
 
-## Exercise 1 - Writing HTML ##
+To use these exercises, either click the link below each exercise, or change the current 'branch' that you are on by choosing a different exercise in the above dropdown (as seen below).
 
-## Exercise 2 - Styling with CSS ##
+### Exercise 1 - Writing HTML ###
 
-## Exercise 3 - CSS Classes ##
+- [Format an article with HTML]()
 
-## Exercise 4 ##
+### Exercise 2 - Styling with CSS ###
+
+- [Style the article with CSS]()
+
+### Exercise 3 - CSS Classes ###
+
+- [Style tweets with CSS classes]()
+
+### Exercise 4 ###
 
 - Coming Soon
 
-## Exercise 5 ##
+### Exercise 5 ###
 
 - Coming Soon
