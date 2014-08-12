@@ -5,6 +5,8 @@ HTML/CSS and JavaScript exercises for the intro course.
 
 To use these exercises, either click the link below each exercise, or change the current 'branch' that you are on by choosing a different exercise in the above dropdown (as seen below).
 
+![Branches](https://raw.githubusercontent.com/CodingCampus/photo-album/master/extras/branches.png)
+
 ### Exercise 1 - Writing HTML ###
 
 - [Format an article with HTML](https://github.com/CodingCampus/intro-exercises/tree/exercise1)
