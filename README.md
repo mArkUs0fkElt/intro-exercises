@@ -1,7 +1,7 @@
 Exercise 2
 ==========
 
-Us the HTML article from theonion.com that you just formatted from exercise 1.
+Use the HTML article from theonion.com that you just formatted from exercise 1.
 
 ### Instructions ###
 
