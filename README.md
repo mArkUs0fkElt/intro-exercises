@@ -15,4 +15,10 @@ Style the article using the following:
 6. Make the "You might also like" label all uppercase.
 7. **Bonus:** Make an underline appear when you hover over a link.
 
-![Exercise 1 Solution](https://raw.githubusercontent.com/CodingCampus/intro-exercises/exercise2/extras/exercise2-solution.png)
+### Hints ###
+
+**Best practice:** CSS should be completely separate from the pure HTML. While it is possible to make CSS inline and even in the HEAD of an HTML file, most of the time it is best if all the CSS is in its on file, and then linked to in the HTML file. This allows us to have multiple HTML pages in a website that use the same styles. To link a CSS file to your HTML file, use the following code:
+
+`<link href='*path_to_your_css_file*' rel='stylesheet' />`
+
+![Exercise 2 Solution](https://raw.githubusercontent.com/CodingCampus/intro-exercises/exercise2/extras/exercise2-solution.png)
